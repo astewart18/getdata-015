@@ -116,14 +116,12 @@ data$activity_code<-NULL
 # for each activity and each subject."
 library(data.table)
 dt<-data.table(data)
-tidy_summary<-dt[order(activity,subject),lapply(.SD,mean),by=list(activity,subject)]
-# While the spec does not specify any particular order, I like to sort by the
-# grouped variables
+# While the spec does not specify any particular order, I like to sort by the 
+# grouped variables. Calculate the mean for all the columns other than activity
+# and subject.
 
-# Let's write out the copy to upload to Coursera, or use for further analysis
-message("Writing output to ./tidy_dataset.txt ...")
-write.table(tidy_summary,"./tidy_dataset.txt",row.name=FALSE)
-# Just in case someone wants to look at it, lets also return it
+tidy_summary<-dt[order(activity,subject),lapply(.SD,mean),by=list(activity,subject)]
+
 message("Analysis Complete")
 tidy_summary
 }
