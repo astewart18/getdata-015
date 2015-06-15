@@ -1,7 +1,7 @@
 ## CodeBook
 
 
-
+----
 **Name:**           activity
 
 **Type:**           factor
@@ -13,7 +13,7 @@ Levels are (LAYING, SITTING, STANDING, WALKING, WALKING_DOWNSTAIRS, WALKING_UPST
 
 
 
-
+----
 **Name:**           subject
 
 **Type:**           integer
@@ -27,7 +27,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyAcc_mean_X
 
 **Type:**           double
@@ -39,7 +39,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyAcc_mean_Y
 
 **Type:**           double
@@ -51,7 +51,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyAcc_mean_Z
 
 **Type:**           double
@@ -63,7 +63,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyAcc_std_X
 
 **Type:**           double
@@ -75,7 +75,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyAcc_std_Y
 
 **Type:**           double
@@ -87,7 +87,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyAcc_std_Z
 
 **Type:**           double
@@ -99,7 +99,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tGravityAcc_mean_X
 
 **Type:**           double
@@ -111,7 +111,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tGravityAcc_mean_Y
 
 **Type:**           double
@@ -123,7 +123,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tGravityAcc_mean_Z
 
 **Type:**           double
@@ -135,7 +135,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tGravityAcc_std_X
 
 **Type:**           double
@@ -147,7 +147,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tGravityAcc_std_Y
 
 **Type:**           double
@@ -159,7 +159,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tGravityAcc_std_Z
 
 **Type:**           double
@@ -171,7 +171,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyAccJerk_mean_X
 
 **Type:**           double
@@ -183,7 +183,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyAccJerk_mean_Y
 
 **Type:**           double
@@ -195,7 +195,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyAccJerk_mean_Z
 
 **Type:**           double
@@ -207,7 +207,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyAccJerk_std_X
 
 **Type:**           double
@@ -219,7 +219,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyAccJerk_std_Y
 
 **Type:**           double
@@ -231,7 +231,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyAccJerk_std_Z
 
 **Type:**           double
@@ -243,7 +243,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyGyro_mean_X
 
 **Type:**           double
@@ -255,7 +255,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyGyro_mean_Y
 
 **Type:**           double
@@ -267,7 +267,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyGyro_mean_Z
 
 **Type:**           double
@@ -279,7 +279,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyGyro_std_X
 
 **Type:**           double
@@ -291,7 +291,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyGyro_std_Y
 
 **Type:**           double
@@ -303,7 +303,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyGyro_std_Z
 
 **Type:**           double
@@ -315,7 +315,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyGyroJerk_mean_X
 
 **Type:**           double
@@ -327,7 +327,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyGyroJerk_mean_Y
 
 **Type:**           double
@@ -339,7 +339,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyGyroJerk_mean_Z
 
 **Type:**           double
@@ -351,7 +351,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyGyroJerk_std_X
 
 **Type:**           double
@@ -363,7 +363,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyGyroJerk_std_Y
 
 **Type:**           double
@@ -375,7 +375,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyGyroJerk_std_Z
 
 **Type:**           double
@@ -387,7 +387,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyAccMag_mean
 
 **Type:**           double
@@ -399,7 +399,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyAccMag_std
 
 **Type:**           double
@@ -411,7 +411,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tGravityAccMag_mean
 
 **Type:**           double
@@ -423,7 +423,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tGravityAccMag_std
 
 **Type:**           double
@@ -435,7 +435,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyAccJerkMag_mean
 
 **Type:**           double
@@ -447,7 +447,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyAccJerkMag_std
 
 **Type:**           double
@@ -459,7 +459,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyGyroMag_mean
 
 **Type:**           double
@@ -471,7 +471,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyGyroMag_std
 
 **Type:**           double
@@ -483,7 +483,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyGyroJerkMag_mean
 
 **Type:**           double
@@ -495,7 +495,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           tBodyGyroJerkMag_std
 
 **Type:**           double
@@ -507,7 +507,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyAcc_mean_X
 
 **Type:**           double
@@ -519,7 +519,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyAcc_mean_Y
 
 **Type:**           double
@@ -531,7 +531,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyAcc_mean_Z
 
 **Type:**           double
@@ -543,7 +543,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyAcc_std_X
 
 **Type:**           double
@@ -555,7 +555,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyAcc_std_Y
 
 **Type:**           double
@@ -567,7 +567,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyAcc_std_Z
 
 **Type:**           double
@@ -579,7 +579,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyAccJerk_mean_X
 
 **Type:**           double
@@ -591,7 +591,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyAccJerk_mean_Y
 
 **Type:**           double
@@ -603,7 +603,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyAccJerk_mean_Z
 
 **Type:**           double
@@ -615,7 +615,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyAccJerk_std_X
 
 **Type:**           double
@@ -627,7 +627,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyAccJerk_std_Y
 
 **Type:**           double
@@ -639,7 +639,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyAccJerk_std_Z
 
 **Type:**           double
@@ -651,7 +651,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyGyro_mean_X
 
 **Type:**           double
@@ -663,7 +663,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyGyro_mean_Y
 
 **Type:**           double
@@ -675,7 +675,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyGyro_mean_Z
 
 **Type:**           double
@@ -687,7 +687,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyGyro_std_X
 
 **Type:**           double
@@ -699,7 +699,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyGyro_std_Y
 
 **Type:**           double
@@ -711,7 +711,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyGyro_std_Z
 
 **Type:**           double
@@ -723,7 +723,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyAccMag_mean
 
 **Type:**           double
@@ -735,7 +735,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyAccMag_std
 
 **Type:**           double
@@ -747,7 +747,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyBodyAccJerkMag_mean
 
 **Type:**           double
@@ -759,7 +759,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyBodyAccJerkMag_std
 
 **Type:**           double
@@ -771,7 +771,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyBodyGyroMag_mean
 
 **Type:**           double
@@ -783,7 +783,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyBodyGyroMag_std
 
 **Type:**           double
@@ -795,7 +795,7 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyBodyGyroJerkMag_mean
 
 **Type:**           double
@@ -807,17 +807,10 @@ Values are between 1 to 30, representing the 30 different subjects who participa
 
 
 
-
+----
 **Name:**           fBodyBodyGyroJerkMag_std
 
 **Type:**           double
 
 **Derivation:**     Mean of values (normalised and bounded between [-1,1])  recorded for fBodyBodyGyroJerkMag-std() in X_train.txt and X_test.txt for the specific activity and subject
-
-
-
-
-
-
-
 
