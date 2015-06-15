@@ -2,11 +2,11 @@
 ## Introduction
 This repo contains my solution for the Coursera Data Science Getting and Cleaning Data course.
 
-The objective was to produce a script that given a zip archive containing data from a study, would consolidate and then summarise the data, producing a tidy dataset  
+The objective was to produce a script that given a zip archive containing data from a study, would consolidate and then summarise the data, producing a tidy dataset.  
 
-Further information on the original can be found at [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones) 
+Further information on the original can be found at [Human Activity Recognition Using Smartphones](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones). 
 
-The data for the project come from [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip)
+The data for the project come from [here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip).
     
 ## Procedure
 
@@ -16,9 +16,9 @@ The data for the project come from [here](https://d396qusza40orc.cloudfront.net/
 4. Run the function run_analysis(). It will return a tidy dataset, an explanation of the attributes can be found in CodeBook.md in this same repository. 
 
 For example:
-tidy<-run_analysis()
+` tidy<-run_analysis() `
 
-Note that the data.table package will need to have been installed for the script to run, if not, please run the command "install.packages("data.table")" 
+Note that the data.table package will need to have been installed for the script to run, if not, please run the command "install.packages("data.table")". 
 
 The command View(tidy) in RStudio will show that indeed the dataset is tidy in wide form, having only one variable per column, and one row for each combination of subject and activity.
 
